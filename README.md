@@ -6,9 +6,9 @@ This repository contains a Jupyter Notebook analyzing the [Stack Overflow Develo
 
 ## Blog Post
 
-For a detailed discussion of the analysis and insights, please refer to my [Medium blog post](https://medium.com/p/0a3c7aadbfc7/edit). This post provides an overview of the methodology, findings, and interpretations.
+For a detailed discussion of the analysis and insights, please refer to my [Medium blog post](https://medium.com/@rukkupadiyar/understanding-job-satisfaction-among-developers-0a3c7aadbfc7). This post provides an overview of the methodology, findings, and interpretations.
 
-## Udacity Data Scientist Nanodegree
+## Udacity Data Scientist Nanodegre
 
 This project is part of the Udacity Data Scientist Nanodegree program. The project was completed as a part of the coursework to apply data wrangling, analysis, and visualization techniques learned throughout the program.
 
